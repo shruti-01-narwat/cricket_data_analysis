@@ -36,10 +36,6 @@ The Power BI dashboard includes:
 2. Open the Power BI file (.pbix) in Power BI Desktop.  
 3. Explore the dashboard or customize it as needed.  
 
-## Screenshots  
-
-[Add screenshots of the Power BI dashboard to showcase its design and functionality.]  
-
 ## Future Enhancements  
 
 - Incorporate live data updates.  
